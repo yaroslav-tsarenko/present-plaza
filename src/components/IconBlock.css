@@ -1,0 +1,113 @@
+.why-choose-giftcard {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 110%;
+  font-weight: 400;
+  font-family: inherit;
+}
+.your-trusted-source {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Archivo;
+  color: #1c1c1c;
+}
+.button2 {
+  width: 155px;
+  height: 54px;
+}
+.title1 {
+  width: 580px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+  min-width: 580px;
+  max-width: 100%;
+}
+.benefit-blocks,
+.benefit-blocks1 {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 24px;
+}
+.benefit-blocks,
+.benefit-blocks1,
+.benefits-container,
+.icon-block-2 {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.benefits-container {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 24px;
+  min-width: 671px;
+  text-align: center;
+  font-size: 24px;
+  color: #fff;
+}
+.icon-block-2 {
+  align-self: stretch;
+  background-color: #fff;
+  overflow: hidden;
+  flex-direction: row;
+  align-items: center;
+  padding: 74px 120px;
+  box-sizing: border-box;
+  gap: 68px;
+  text-align: left;
+  font-size: 48px;
+  color: #000;
+  font-family: Inter;
+}
+@media screen and (max-width: 1525px) {
+  .title1 {
+    flex: 1;
+  }
+  .icon-block-2 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1225px) {
+  .title1 {
+    min-width: 100%;
+  }
+  .benefit-blocks,
+  .benefit-blocks1 {
+    flex-wrap: wrap;
+  }
+  .benefits-container {
+    min-width: 100%;
+  }
+  .icon-block-2 {
+    gap: 34px;
+    padding-left: 60px;
+    padding-right: 60px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 850px) {
+  .why-choose-giftcard {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .icon-block-2 {
+    gap: 17px;
+    padding: 48px 30px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .why-choose-giftcard {
+    font-size: 29px;
+    line-height: 32px;
+  }
+}

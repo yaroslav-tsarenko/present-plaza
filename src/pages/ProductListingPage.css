@@ -1,0 +1,199 @@
+.logo-symbol-icon1 {
+  height: 64px;
+  width: 64px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.presentplazazone1 {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 400;
+  font-family: inherit;
+  white-space: nowrap;
+}
+.logo1 {
+  width: 358px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 27px 0 0;
+  box-sizing: border-box;
+  gap: 8px;
+  max-width: 100%;
+}
+.about2,
+.blog1,
+.contact1,
+.platform,
+.shop,
+.work {
+  position: relative;
+  line-height: 120%;
+  display: inline-block;
+  min-width: 46px;
+}
+.blog1,
+.contact1,
+.platform,
+.shop,
+.work {
+  min-width: 34px;
+}
+.contact1,
+.platform,
+.shop,
+.work {
+  min-width: 39px;
+}
+.contact1,
+.platform,
+.shop {
+  min-width: 64px;
+}
+.contact1,
+.shop {
+  min-width: 61px;
+}
+.shop {
+  min-width: 39px;
+}
+.navigation {
+  margin: 0;
+  width: 388px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 0;
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: left;
+  font-size: 16px;
+  color: #000;
+  font-family: Inter;
+}
+.frame-child {
+  height: 43px;
+  width: 198px;
+}
+.logo-parent {
+  width: 1680px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+  max-width: 100%;
+}
+.frame-wrapper,
+.header-inner {
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+}
+.frame-wrapper {
+  background-color: #fff;
+  flex-direction: row;
+  justify-content: center;
+  padding: 5.5px 20px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.header-inner {
+  flex-direction: column;
+}
+.card-design-giftcard-parent,
+.header-inner,
+.header1 {
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.header1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  text-align: left;
+  font-size: 32px;
+  color: #000;
+  font-family: Inter;
+}
+.card-design-giftcard-parent {
+  width: 1680px;
+  flex-direction: row;
+  gap: 40px;
+}
+.card-design-giftcard-parent,
+.content,
+.product-listing-page {
+  display: flex;
+  align-items: flex-start;
+}
+.content {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 20px 80px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.product-listing-page {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 80px;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1350px) {
+  .card-design-giftcard-parent {
+    flex-wrap: wrap;
+  }
+  .content {
+    padding-bottom: 52px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1125px) {
+  .navigation {
+    display: none;
+  }
+  .logo-parent {
+    width: 1292px;
+  }
+  .content {
+    padding-bottom: 34px;
+    box-sizing: border-box;
+  }
+  .product-listing-page {
+    gap: 40px;
+  }
+}
+@media screen and (max-width: 800px) {
+  .frame-wrapper {
+    gap: 53px;
+  }
+  .card-design-giftcard-parent,
+  .product-listing-page {
+    gap: 20px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .frame-wrapper {
+    gap: 27px;
+  }
+  .content {
+    padding-bottom: 22px;
+    box-sizing: border-box;
+  }
+}

@@ -1,0 +1,1184 @@
+.categories1 {
+  flex: 1;
+  position: relative;
+  line-height: 30px;
+}
+.categories,
+.categories-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.categories-wrapper {
+  align-self: stretch;
+  border-bottom: 1px solid #bdbdbd;
+  flex-direction: row;
+  padding: 12px 0 10px;
+}
+.categories {
+  width: 330px;
+  border-radius: 20px;
+  background-color: #fff;
+  flex-direction: column;
+  padding: 24px 36px;
+  box-sizing: border-box;
+  gap: 40px;
+  max-width: 100%;
+}
+.featured-cards,
+.search-for-brands {
+  position: relative;
+  display: inline-block;
+}
+.featured-cards {
+  margin: 0;
+  width: 335px;
+  font-size: inherit;
+  line-height: 53px;
+  font-weight: 400;
+  font-family: inherit;
+  max-width: 100%;
+}
+.search-for-brands {
+  width: 245px;
+  line-height: 22px;
+}
+.search-normal-icon {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  min-height: 24px;
+}
+.search-field {
+  flex: 1;
+  justify-content: space-between;
+  gap: 20px;
+}
+.search-bar,
+.search-field,
+.search-input {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  max-width: 100%;
+}
+.search-input {
+  width: 405px;
+  border-radius: 100px;
+  background-color: #fff;
+  justify-content: center;
+  padding: 24px 36px;
+  box-sizing: border-box;
+  font-size: 18px;
+  color: #1c1c1c;
+}
+.search-bar {
+  align-self: stretch;
+  justify-content: space-between;
+  gap: 20px;
+  font-size: 48px;
+}
+.card-design-fenty-child {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 6px;
+  background: linear-gradient(180deg, #ff8796, #feba95);
+}
+.mask-group-icon,
+.usd-100-1000 {
+  flex: 1;
+  position: relative;
+  z-index: 1;
+}
+.mask-group-icon {
+  align-self: stretch;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.usd-100-1000 {
+  line-height: 22px;
+}
+.card-design,
+.card-design-fenty,
+.usd-100-1000-wrapper {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.usd-100-1000-wrapper {
+  flex-direction: row;
+  padding: 0 12px 0 11px;
+}
+.card-design,
+.card-design-fenty {
+  flex: 1;
+  max-width: 100%;
+}
+.card-design-fenty {
+  flex-direction: column;
+  padding: 74.9px 20px 21px;
+  box-sizing: border-box;
+  position: relative;
+  gap: 37.8px;
+}
+.card-design {
+  flex-direction: row;
+  color: #1d1d1d;
+}
+.popular-card {
+  margin: 0;
+  width: 143px;
+  position: relative;
+  font-size: 24px;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+}
+.online {
+  flex: 1;
+  position: relative;
+  line-height: 24px;
+  flex-shrink: 0;
+}
+.background,
+.container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.container {
+  height: 24px;
+  width: 67px;
+  overflow: hidden;
+  flex-shrink: 0;
+  padding: 0.5px 1px 0 12px;
+  box-sizing: border-box;
+}
+.background {
+  border-radius: 6px;
+  background-color: #f6f8f9;
+  padding: 0 9px;
+}
+.in-store {
+  width: 75px;
+  position: relative;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.container1 {
+  height: 24px;
+  overflow: hidden;
+  padding: 0.5px 1px 0 11px;
+  box-sizing: border-box;
+}
+.background-parent,
+.background1,
+.container1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.background1 {
+  border-radius: 6px;
+  background-color: #f6f8f9;
+  padding: 0 2px;
+  color: #ffb779;
+}
+.background-parent {
+  gap: 12px;
+  text-align: left;
+  color: #00cca8;
+  font-family: Roboto;
+}
+.adidas {
+  width: 58px;
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 58px;
+}
+.adidas-wrapper,
+.product3 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.adidas-wrapper {
+  flex-direction: row;
+  font-size: 18px;
+}
+.product3 {
+  width: 402px;
+  margin: 0 !important;
+  position: absolute;
+  top: 503px;
+  left: 916px;
+  background-color: #fff;
+  flex-direction: column;
+  padding: 34px 36px;
+  box-sizing: border-box;
+  gap: 24px;
+  max-width: 100%;
+  text-align: center;
+}
+.image-mask {
+  width: 70px;
+  position: relative;
+  letter-spacing: 0.15em;
+  line-height: 18px;
+  text-transform: uppercase;
+  display: inline-block;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.image-mask-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 307px;
+}
+.mask-group-icon1 {
+  width: 184px;
+  height: 45px;
+  position: absolute;
+  margin: 0 !important;
+  top: 109px;
+  left: calc(50% - 92px);
+  object-fit: contain;
+  z-index: 1;
+}
+.wrapper-vector-1-child {
+  width: 100%;
+  flex: 1;
+  flex-shrink: 0;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  transform: scale(1.058);
+}
+.wrapper-vector-1 {
+  width: 389px;
+  flex: 1;
+  position: relative;
+  max-height: 100%;
+  max-width: 121%;
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 2;
+}
+.card-design-playstation,
+.card-design1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.card-design-playstation {
+  align-self: stretch;
+  width: 330px;
+  border-radius: 8px;
+  background: linear-gradient(90deg, #5b2885, #00a5c8);
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: column;
+  padding: 24px 0 0.3px 6px;
+  box-sizing: border-box;
+  position: relative;
+  gap: 49px;
+}
+.card-design1 {
+  flex: 1;
+  flex-direction: row;
+  color: #fff;
+  font-family: "Open Sans";
+}
+.popular-card1 {
+  margin: 0;
+  width: 143px;
+  position: relative;
+  font-size: 24px;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+  text-align: center;
+  display: inline-block;
+}
+.online1 {
+  flex: 1;
+  position: relative;
+  line-height: 24px;
+  flex-shrink: 0;
+}
+.background2,
+.container2 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.container2 {
+  height: 24px;
+  width: 67px;
+  overflow: hidden;
+  flex-shrink: 0;
+  padding: 0.5px 1px 0 12px;
+  box-sizing: border-box;
+}
+.background2 {
+  border-radius: 6px;
+  background-color: #f6f8f9;
+  padding: 0 9px;
+}
+.in-store1 {
+  width: 75px;
+  position: relative;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.container3 {
+  height: 24px;
+  overflow: hidden;
+  padding: 0.5px 1px 0 11px;
+  box-sizing: border-box;
+}
+.background-group,
+.background3,
+.container3 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.background3 {
+  border-radius: 6px;
+  background-color: #f6f8f9;
+  padding: 0 2px;
+  color: #ffb779;
+}
+.background-group {
+  gap: 12px;
+  font-size: 16px;
+  color: #00cca8;
+  font-family: Roboto;
+}
+.adidas1 {
+  width: 58px;
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 58px;
+}
+.adidas-container,
+.product31 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.adidas-container {
+  flex-direction: row;
+  text-align: center;
+  font-size: 18px;
+}
+.product31 {
+  margin: 0 !important;
+  position: absolute;
+  top: 1509px;
+  left: 0;
+  background-color: #fff;
+  flex-direction: column;
+  padding: 34px 36px;
+  box-sizing: border-box;
+  gap: 24px;
+  max-width: 100%;
+  font-size: 32px;
+}
+.b,
+.wrapper-vector-1-item {
+  flex-shrink: 0;
+  debug_commit: 448091;
+}
+.b {
+  width: 42px;
+  height: 22px;
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  white-space: nowrap;
+}
+.wrapper-vector-1-item {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 0;
+  transform: scale(1.045);
+}
+.wrapper-vector-11 {
+  margin-left: -362.4px;
+  width: 395px;
+  height: 222.4px;
+  position: relative;
+  flex-shrink: 0;
+  debug_commit: 448091;
+  max-width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1;
+}
+.pngwing-1-icon {
+  width: 178px;
+  height: 53px;
+  position: absolute;
+  margin: 0 !important;
+  top: 105px;
+  left: calc(50% - 89px);
+  object-fit: contain;
+  z-index: 1;
+}
+.card-design-spotify,
+.card-design2 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.card-design-spotify {
+  height: 264px;
+  width: 330px;
+  border-radius: 8px;
+  background: linear-gradient(90deg, #0a4050, #1a6a47);
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: column;
+  padding: 24px 0 218px 336px;
+  box-sizing: border-box;
+  position: relative;
+  gap: 40.3px;
+}
+.card-design2 {
+  flex-direction: row;
+  color: #fff;
+  font-family: "Kumbh Sans";
+}
+.popular-card2 {
+  margin: 0;
+  width: 143px;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+  text-align: center;
+  display: inline-block;
+}
+.online2 {
+  flex: 1;
+  position: relative;
+  line-height: 24px;
+  flex-shrink: 0;
+}
+.background4,
+.container4 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.container4 {
+  height: 24px;
+  width: 67px;
+  overflow: hidden;
+  flex-shrink: 0;
+  padding: 0.5px 1px 0 12px;
+  box-sizing: border-box;
+}
+.background4 {
+  border-radius: 6px;
+  background-color: #f6f8f9;
+  padding: 0 9px;
+}
+.in-store2 {
+  width: 75px;
+  position: relative;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.container5 {
+  height: 24px;
+  overflow: hidden;
+  padding: 0.5px 1px 0 11px;
+  box-sizing: border-box;
+}
+.background-container,
+.background5,
+.container5 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.background5 {
+  border-radius: 6px;
+  background-color: #f6f8f9;
+  padding: 0 2px;
+  color: #ffb779;
+}
+.background-container {
+  gap: 12px;
+  font-size: 16px;
+  color: #00cca8;
+  font-family: Roboto;
+}
+.adidas2 {
+  width: 58px;
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 58px;
+}
+.adidas-frame,
+.product32 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.adidas-frame {
+  flex-direction: row;
+  text-align: center;
+  font-size: 18px;
+}
+.product32 {
+  margin: 0 !important;
+  position: absolute;
+  top: 2012px;
+  left: 458px;
+  background-color: #fff;
+  flex-direction: column;
+  padding: 34px 36px;
+  box-sizing: border-box;
+  gap: 24px;
+  max-width: 100%;
+  font-size: 24px;
+}
+.div {
+  align-self: stretch;
+  height: 22px;
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  flex-shrink: 0;
+  debug_commit: 448091;
+  white-space: nowrap;
+}
+.wrapper {
+  margin-left: -72px;
+  width: 43.5px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 24px 15px 0 0;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.pngwing-4-icon {
+  align-self: stretch;
+  height: 28px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  debug_commit: 448091;
+}
+.pngwing-4-wrapper {
+  width: 113px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 212px 0 0;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.card-design-starbucks-child {
+  height: 264px;
+  width: 165.5px;
+  position: relative;
+  object-fit: cover;
+  flex-shrink: 0;
+  debug_commit: 448091;
+}
+.card-design-starbucks,
+.card-design3 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.card-design-starbucks {
+  width: 330px;
+  border-radius: 8px;
+  background-color: #8b511c;
+  overflow: hidden;
+  flex-shrink: 0;
+  padding: 0 24px;
+  box-sizing: border-box;
+  gap: 28.5px;
+}
+.card-design3 {
+  color: #fff;
+  font-family: "Open Sans";
+}
+.popular-card3 {
+  margin: 0;
+  width: 143px;
+  position: relative;
+  font-size: 24px;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+  text-align: center;
+  display: inline-block;
+}
+.online3 {
+  flex: 1;
+  position: relative;
+  line-height: 24px;
+  flex-shrink: 0;
+}
+.background6,
+.container6 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.container6 {
+  height: 24px;
+  width: 67px;
+  overflow: hidden;
+  flex-shrink: 0;
+  padding: 0.5px 1px 0 12px;
+  box-sizing: border-box;
+}
+.background6 {
+  border-radius: 6px;
+  background-color: #f6f8f9;
+  padding: 0 9px;
+}
+.in-store3 {
+  width: 75px;
+  position: relative;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.container7 {
+  height: 24px;
+  overflow: hidden;
+  padding: 0.5px 1px 0 11px;
+  box-sizing: border-box;
+}
+.background7,
+.container7,
+.frame-div {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.background7 {
+  border-radius: 6px;
+  background-color: #f6f8f9;
+  padding: 0 2px;
+  color: #ffb779;
+}
+.frame-div {
+  gap: 12px;
+  color: #00cca8;
+  font-family: Roboto;
+}
+.adidas3 {
+  width: 58px;
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 58px;
+}
+.adidas-wrapper1,
+.product33 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.adidas-wrapper1 {
+  flex-direction: row;
+  text-align: center;
+  font-size: 18px;
+}
+.product33 {
+  margin: 0 !important;
+  position: absolute;
+  top: 2012px;
+  left: 916px;
+  background-color: #fff;
+  flex-direction: column;
+  padding: 34px 36px;
+  box-sizing: border-box;
+  gap: 24px;
+  max-width: 100%;
+}
+.empty {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 37px;
+  white-space: nowrap;
+}
+.mask-group-icon2 {
+  align-self: stretch;
+  height: 32px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.card-design-ubereats-inner,
+.empty-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.empty-parent {
+  align-self: stretch;
+  gap: 162px;
+}
+.card-design-ubereats-inner {
+  width: 97px;
+  padding: 24px 0 0;
+  box-sizing: border-box;
+  min-width: 97px;
+  flex-shrink: 0;
+}
+.card-design-ubereats-child {
+  height: 264px;
+  width: 165.5px;
+  position: relative;
+  object-fit: cover;
+  flex-shrink: 0;
+}
+.card-design-ubereats,
+.card-design4 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.card-design-ubereats {
+  width: 330px;
+  border-radius: 8px;
+  background-color: #7dc243;
+  overflow: hidden;
+  flex-shrink: 0;
+  padding: 0 24px;
+  box-sizing: border-box;
+  gap: 44.5px;
+}
+.card-design4 {
+  color: #fff;
+  font-family: "Open Sans";
+}
+.popular-card4 {
+  margin: 0;
+  width: 143px;
+  position: relative;
+  font-size: 24px;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+  text-align: center;
+  display: inline-block;
+}
+.online4 {
+  flex: 1;
+  position: relative;
+  line-height: 24px;
+  flex-shrink: 0;
+}
+.background8,
+.container8 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.container8 {
+  height: 24px;
+  width: 67px;
+  overflow: hidden;
+  flex-shrink: 0;
+  padding: 0.5px 1px 0 12px;
+  box-sizing: border-box;
+}
+.background8 {
+  border-radius: 6px;
+  background-color: #f6f8f9;
+  padding: 0 9px;
+}
+.in-store4 {
+  width: 75px;
+  position: relative;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.container9 {
+  height: 24px;
+  overflow: hidden;
+  padding: 0.5px 1px 0 11px;
+  box-sizing: border-box;
+}
+.background-parent1,
+.background9,
+.container9 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.background9 {
+  border-radius: 6px;
+  background-color: #f6f8f9;
+  padding: 0 2px;
+  color: #ffb779;
+}
+.background-parent1 {
+  gap: 12px;
+  color: #00cca8;
+  font-family: Roboto;
+}
+.adidas4 {
+  width: 58px;
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 58px;
+}
+.adidas-wrapper2 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: center;
+  font-size: 18px;
+}
+.card-grid,
+.product34 {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.product34 {
+  margin: 0 !important;
+  position: absolute;
+  top: 2515px;
+  left: 458px;
+  background-color: #fff;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 34px 36px;
+  box-sizing: border-box;
+  gap: 24px;
+}
+.card-grid {
+  align-self: stretch;
+  height: 3497px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  position: relative;
+  text-align: left;
+  color: #1c1c1c;
+}
+.pagination-block-icon {
+  height: 36px;
+  width: 36px;
+  position: relative;
+  border-radius: 4px;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 36px;
+}
+.current-page {
+  position: relative;
+  display: inline-block;
+  min-width: 8px;
+  z-index: 1;
+}
+.page-link {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 1px;
+}
+.other-pages {
+  width: 10px;
+  height: 10px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  transform: rotate(180deg);
+  margin-top: -14px;
+}
+.pagination-block {
+  align-self: stretch;
+  border-radius: 4px;
+  background-color: #c6c6c6;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 8px 13px 9px;
+  color: #1d1d1d;
+}
+.div1 {
+  position: relative;
+  display: inline-block;
+  min-width: 10px;
+  z-index: 1;
+}
+.pagination-block-child {
+  width: 10px;
+  height: 10px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  transform: rotate(180deg);
+  margin-top: -14px;
+}
+.pagination-block1 {
+  align-self: stretch;
+  flex: 1;
+  border-radius: 4px;
+  border: 1px solid #c6c6c6;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 8px 12px 9px;
+}
+.div2 {
+  position: relative;
+  display: inline-block;
+  min-width: 11px;
+  z-index: 1;
+}
+.pagination-block-item {
+  width: 10px;
+  height: 10px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  transform: rotate(180deg);
+  margin-top: -14px;
+}
+.pagination-block2 {
+  align-self: stretch;
+  flex: 1;
+  border-radius: 4px;
+  border: 1px solid #c6c6c6;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 8px 12px 9px 11px;
+}
+.pagination-block-icon1 {
+  height: 36px;
+  width: 36px;
+  position: relative;
+  border-radius: 4px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+  min-height: 36px;
+}
+.pagination1 {
+  align-self: stretch;
+  width: 236px;
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: 14px;
+}
+.pagination,
+.pagination1,
+.search {
+  display: flex;
+  align-items: flex-start;
+}
+.pagination {
+  align-self: stretch;
+  height: 36px;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+  color: #c6c6c6;
+}
+.search {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 24px;
+  min-width: 857px;
+  max-width: 100%;
+  text-align: center;
+  font-size: 16px;
+  color: #ea7700;
+  font-family: Inter;
+}
+.product-listings,
+.product-listings3 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.product-listings3 {
+  width: 1680px;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  gap: 32px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 24px;
+  color: #1c1c1c;
+  font-family: Inter;
+}
+.product-listings {
+  width: 100%;
+  position: relative;
+  background-color: #b6d0e4;
+  overflow: hidden;
+  justify-content: center;
+  padding: 80px 20px;
+  box-sizing: border-box;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 950px) {
+  .search {
+    min-width: 100%;
+  }
+}
+@media screen and (max-width: 925px) {
+  .featured-cards {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .search-bar {
+    flex-wrap: wrap;
+  }
+  .image-mask {
+    font-size: 26px;
+    line-height: 14px;
+  }
+}
+@media screen and (max-width: 700px) {
+  .categories {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    box-sizing: border-box;
+  }
+  .card-design-starbucks {
+    flex-wrap: wrap;
+  }
+  .product-listings3 {
+    gap: 16px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .categories1 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .categories {
+    gap: 20px;
+  }
+  .featured-cards {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .image-mask,
+  .popular-card {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .image-mask {
+    line-height: 11px;
+  }
+  .b,
+  .popular-card1 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .b {
+    line-height: 18px;
+  }
+  .popular-card2,
+  .popular-card3 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .card-design-ubereats-child,
+  .card-design-ubereats-inner {
+    flex: 1;
+  }
+  .card-design-ubereats {
+    flex-wrap: wrap;
+  }
+  .popular-card4 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .card-grid {
+    height: auto;
+    min-height: 3497;
+  }
+}

@@ -1,0 +1,178 @@
+.card-backgrounds,
+.pngwing-1-icon4 {
+  position: absolute;
+  margin: 0 !important;
+}
+.card-backgrounds {
+  width: 100%;
+  height: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 6px;
+  background: linear-gradient(180deg, #ceef51, #efffa7);
+}
+.pngwing-1-icon4 {
+  height: 242.5px;
+  width: 242px;
+  right: -217.1px;
+  bottom: -163.5px;
+  object-fit: cover;
+  z-index: 1;
+}
+.giftcards3,
+.wishdeck3 {
+  margin: 0;
+}
+.wishdeck-giftcards3 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 36px;
+  font-weight: 700;
+  font-family: inherit;
+  z-index: 2;
+}
+.product-details {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+}
+.usd-100-100010 {
+  width: 131px;
+  position: relative;
+  font-size: 12px;
+  letter-spacing: 0.15em;
+  line-height: 18px;
+  text-transform: uppercase;
+  display: inline-block;
+  z-index: 2;
+}
+.card-design12 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 28.3px 30px 140.9px;
+  position: relative;
+  gap: 4.6px;
+}
+.playstation3 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  min-width: 121px;
+}
+.heart-icon3 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+}
+.action-buttons1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+  color: #000;
+  font-family: Inter;
+}
+.star-icon20,
+.star-icon21,
+.star-icon22,
+.star-icon23,
+.star-icon24 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  min-height: 24px;
+}
+.stars4 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.empty-action {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 29px;
+}
+.rating-containers {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+  font-size: 16px;
+}
+.empty-container {
+  position: relative;
+  font-size: 32px;
+  line-height: 135%;
+  display: inline-block;
+  min-width: 53px;
+  white-space: nowrap;
+}
+.product-actions,
+.product47 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.product-actions {
+  align-self: stretch;
+  border-radius: 0 0 20px 20px;
+  background-color: #fff;
+  padding: 24px;
+  gap: 16px;
+  z-index: 3;
+  margin-top: -4px;
+  font-size: 24px;
+  color: #1c1c1c;
+  font-family: Archivo;
+}
+.product47 {
+  flex: 1;
+  min-width: 301px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 30px;
+  color: #1d1d1d;
+  font-family: Inter;
+}
+@media screen and (max-width: 800px) {
+  .wishdeck-giftcards3 {
+    font-size: 24px;
+    line-height: 29px;
+  }
+  .empty-container {
+    font-size: 26px;
+    line-height: 35px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .wishdeck-giftcards3 {
+    font-size: 18px;
+    line-height: 22px;
+  }
+  .playstation3 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .empty-container {
+    font-size: 19px;
+    line-height: 26px;
+  }
+}

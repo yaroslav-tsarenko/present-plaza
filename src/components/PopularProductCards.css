@@ -1,0 +1,72 @@
+.card-designshoes-child {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 6px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.shoes,
+.wallets {
+  margin: 0;
+}
+.shoes-wallets-container {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 36px;
+  font-weight: 400;
+  font-family: inherit;
+  z-index: 1;
+}
+.usd-100-10008 {
+  width: 141px;
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  display: inline-block;
+  z-index: 1;
+}
+.card-designshoes,
+.popular-product-cards1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.card-designshoes {
+  align-self: stretch;
+  padding: 85.4px 20px 79.3px 30px;
+  position: relative;
+  gap: 4.7px;
+  opacity: 0.8;
+}
+.popular-product-cards1 {
+  width: 402px;
+  flex-shrink: 0;
+  padding: 35.3px 0 0;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: 30px;
+  color: #1c1c1c;
+  font-family: Inter;
+}
+@media screen and (max-width: 850px) {
+  .shoes-wallets-container {
+    font-size: 24px;
+    line-height: 29px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .shoes-wallets-container {
+    font-size: 18px;
+    line-height: 22px;
+  }
+}

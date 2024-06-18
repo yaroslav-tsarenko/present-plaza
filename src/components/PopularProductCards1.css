@@ -1,0 +1,78 @@
+.product-image-icon {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 6px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.kids-toys1,
+.needs1 {
+  margin: 0;
+}
+.kids-toys-container1,
+.usd-100-10007 {
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.kids-toys-container1 {
+  margin: 0;
+  height: 52.2px;
+  font-size: inherit;
+  line-height: 36px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.usd-100-10007 {
+  width: 157.8px;
+  height: 15.9px;
+  font-size: 16px;
+  line-height: 22px;
+}
+.card-designkids1,
+.popular-product-cards {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.card-designkids1 {
+  align-self: stretch;
+  backdrop-filter: blur(4px);
+  padding: 42px 20px 57.6px 22px;
+  position: relative;
+  gap: 23.3px;
+  opacity: 0.4;
+}
+.popular-product-cards {
+  margin-left: -308px;
+  width: 292px;
+  flex-shrink: 0;
+  padding: 71.5px 0 0;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: 30px;
+  color: #1c1c1c;
+  font-family: Inter;
+}
+@media screen and (max-width: 850px) {
+  .kids-toys-container1 {
+    font-size: 24px;
+    line-height: 29px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .kids-toys-container1 {
+    font-size: 18px;
+    line-height: 22px;
+  }
+}

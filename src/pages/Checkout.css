@@ -1,0 +1,89 @@
+.header {
+  border: 0;
+  background-color: transparent;
+  align-self: stretch;
+  height: 54px;
+  font-family: Inter;
+  font-size: 18px;
+  color: #000;
+}
+.your-personal-data {
+  align-self: stretch;
+  position: relative;
+  line-height: 135%;
+}
+.button {
+  align-self: stretch;
+  height: 54px;
+}
+.checkout,
+.checkout-details,
+.frame-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.checkout-details {
+  align-self: stretch;
+  border-radius: 5px;
+  background-color: #fbfbfb;
+  padding: 36px 24px;
+  gap: 36px;
+}
+.checkout,
+.frame-parent {
+  width: 500px;
+  max-width: 100%;
+}
+.frame-parent {
+  width: 1532px;
+  align-items: flex-end;
+}
+.checkout-1920-inner {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 24px 0 20px;
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: left;
+  font-size: 16px;
+  color: #000;
+  font-family: "Work Sans";
+}
+.checkout-1920 {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 120px;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1100px) {
+  .checkout-1920 {
+    gap: 60px;
+  }
+}
+@media screen and (max-width: 750px) {
+  .checkout-details {
+    gap: 18px;
+  }
+  .checkout-1920 {
+    gap: 30px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .button {
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+}

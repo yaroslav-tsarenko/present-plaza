@@ -1,0 +1,79 @@
+.card-design-rolex-child {
+  width: 510px;
+  height: 334px;
+  position: relative;
+  border-radius: 6px;
+  background: linear-gradient(180deg, #ceef51, #efffa7);
+  display: none;
+  max-width: 100%;
+}
+.image-1-icon1 {
+  width: 272.5px;
+  flex: 1;
+  position: relative;
+  max-height: 100%;
+  object-fit: contain;
+  z-index: 1;
+}
+.usd-100-10009 {
+  width: 267.3px;
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  z-index: 1;
+}
+.card-design-rolex,
+.popular-products-grid {
+  flex-shrink: 0;
+  display: flex;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.card-design-rolex {
+  align-self: stretch;
+  width: 510px;
+  border-radius: 6px;
+  background: linear-gradient(180deg, #ceef51, #efffa7);
+  flex-direction: column;
+  align-items: center;
+  padding: 75.3px 20px 59.9px;
+  gap: 24.7px;
+  text-align: center;
+  font-size: 16px;
+  color: #1d1d1d;
+}
+.popular-products-grid {
+  width: 1920px;
+  height: 334px;
+  overflow-x: auto;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 287px;
+  gap: 16px;
+  text-align: left;
+  font-size: 30px;
+  color: #1c1c1c;
+  font-family: Inter;
+}
+@media screen and (max-width: 1225px) {
+  .popular-products-grid {
+    padding-left: 143px;
+    padding-right: 143px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 850px) {
+  .popular-products-grid {
+    padding-left: 71px;
+    padding-right: 71px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .popular-products-grid {
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+}

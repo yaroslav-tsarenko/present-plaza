@@ -1,0 +1,292 @@
+.product-icons {
+  margin: 0;
+  height: 20px;
+  width: 20px;
+  position: relative;
+  border: 0 solid rgba(118, 122, 129, 0.4);
+  box-sizing: border-box;
+}
+.all-products1 {
+  flex: 1;
+  position: relative;
+  line-height: 24px;
+}
+.product-icons-parent {
+  width: 143.3px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+}
+.all-products-inner {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.vector-icon {
+  align-self: stretch;
+  width: 15.2px;
+  position: relative;
+  max-height: 100%;
+  min-height: 27px;
+}
+.mobile-phone-credit {
+  flex: 1;
+  position: relative;
+  line-height: 24px;
+}
+.vector-parent {
+  width: 210.1px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 18px;
+}
+.all-products-child {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.vector-icon1 {
+  height: 20px;
+  width: 20px;
+  position: relative;
+}
+.e-commerce {
+  flex: 1;
+  position: relative;
+  line-height: 24px;
+}
+.all-products-inner1,
+.vector-group {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.vector-group {
+  width: 151px;
+  justify-content: center;
+  gap: 16px;
+}
+.all-products-inner1 {
+  align-self: stretch;
+  justify-content: flex-start;
+  color: #1c1c1c;
+}
+.vector-icon2 {
+  height: 17.8px;
+  width: 17.8px;
+  position: relative;
+}
+.fashion-lifestyle {
+  flex: 1;
+  position: relative;
+  line-height: 24px;
+  flex-shrink: 0;
+}
+.all-products-inner2,
+.vector-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.vector-container {
+  width: 200.1px;
+  justify-content: center;
+  gap: 17px;
+}
+.all-products-inner2 {
+  align-self: stretch;
+  justify-content: flex-start;
+}
+.foods-and-restaurantssvg-icon {
+  height: 30px;
+  width: 20px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.foods-restaurants {
+  flex: 1;
+  position: relative;
+  line-height: 24px;
+}
+.foods-and-restaurantssvg-parent {
+  width: 216.8px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+}
+.all-products-inner3 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.electronicssvg-icon {
+  height: 18px;
+  width: 20px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.electronics1 {
+  flex: 1;
+  position: relative;
+  line-height: 24px;
+}
+.all-products-inner4,
+.electronicssvg-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.electronicssvg-parent {
+  width: 133.8px;
+  justify-content: center;
+  gap: 16px;
+}
+.all-products-inner4 {
+  align-self: stretch;
+  justify-content: flex-start;
+}
+.home-and-gardensvg-icon {
+  height: 20px;
+  width: 20px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.home-garden {
+  flex: 1;
+  position: relative;
+  line-height: 24px;
+}
+.all-products-inner5,
+.home-and-gardensvg-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.home-and-gardensvg-parent {
+  width: 178.1px;
+  justify-content: center;
+  gap: 16px;
+}
+.all-products-inner5 {
+  align-self: stretch;
+  justify-content: flex-start;
+}
+.health-spa-beautysvg-icon {
+  height: 17.8px;
+  width: 20px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.health-spa {
+  flex: 1;
+  position: relative;
+  line-height: 24px;
+}
+.health-spa-beautysvg-parent {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+}
+.all-products-inner6 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 35px 0 0;
+}
+.travelsvg-icon {
+  height: 19.5px;
+  width: 20px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.travel-experiences {
+  flex: 1;
+  position: relative;
+  line-height: 24px;
+}
+.all-products-inner7,
+.travelsvg-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.travelsvg-parent {
+  width: 218px;
+  justify-content: center;
+  gap: 16px;
+}
+.all-products-inner7 {
+  justify-content: flex-start;
+  padding: 0 40px 0 0;
+}
+.charitysvg-icon {
+  height: 17.8px;
+  width: 20px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.charity {
+  flex: 1;
+  position: relative;
+  line-height: 24px;
+}
+.all-products,
+.all-products-inner8,
+.charitysvg-parent {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.charitysvg-parent {
+  width: 102.1px;
+  align-items: flex-start;
+  gap: 16px;
+}
+.all-products,
+.all-products-inner8 {
+  align-self: stretch;
+  align-items: center;
+}
+.all-products {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 32px;
+  text-align: left;
+  font-size: 16px;
+  color: #767a81;
+  font-family: Archivo;
+}
+@media screen and (max-width: 450px) {
+  .all-products-inner6 {
+    gap: 57px;
+  }
+  .all-products-inner7 {
+    gap: 59px;
+  }
+  .all-products {
+    gap: 16px;
+  }
+}

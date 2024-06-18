@@ -1,0 +1,96 @@
+.playstation {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  min-width: 84px;
+}
+.heart-icon {
+  height: 24px;
+  width: 24px;
+  position: relative;
+}
+.playstation-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+  color: #000;
+  font-family: Inter;
+}
+.star-icon,
+.star-icon1,
+.star-icon2,
+.star-icon3,
+.star-icon4 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  min-height: 24px;
+}
+.stars {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.empty-rating {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 29px;
+}
+.stars-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+  font-size: 16px;
+}
+.empty-info {
+  position: relative;
+  font-size: 32px;
+  line-height: 135%;
+  display: inline-block;
+  min-width: 53px;
+  white-space: nowrap;
+}
+.frame-group {
+  align-self: stretch;
+  border-radius: 0 0 20px 20px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 24px;
+  gap: 16px;
+  z-index: 2;
+  margin-top: -4px;
+  text-align: left;
+  font-size: 24px;
+  color: #1c1c1c;
+  font-family: Archivo;
+}
+@media screen and (max-width: 850px) {
+  .empty-info {
+    font-size: 26px;
+    line-height: 35px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .empty-info,
+  .playstation {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .empty-info {
+    line-height: 26px;
+  }
+}

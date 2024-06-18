@@ -1,0 +1,196 @@
+.card-image,
+.pngwing-1-icon6 {
+  position: absolute;
+  margin: 0 !important;
+}
+.card-image {
+  width: 100%;
+  height: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 6px;
+  background: linear-gradient(180deg, #ceef51, #efffa7);
+}
+.pngwing-1-icon6 {
+  height: 242.5px;
+  width: 198.7px;
+  right: -178.3px;
+  bottom: -163.5px;
+  object-fit: cover;
+  z-index: 1;
+}
+.giftcards5,
+.wishdeck5 {
+  margin: 0;
+}
+.wishdeck-giftcards5 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 36px;
+  font-weight: 700;
+  font-family: inherit;
+  z-index: 2;
+}
+.card-tags {
+  width: 126.4px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+}
+.usd-100-100012 {
+  width: 136.7px;
+  height: 22.9px;
+  position: relative;
+  font-size: 12px;
+  letter-spacing: 0.15em;
+  line-height: 18px;
+  text-transform: uppercase;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 2;
+}
+.card-design13,
+.card-design5 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.card-design13 {
+  flex: 1;
+  flex-direction: column;
+  padding: 28.3px 20px 136px 25px;
+  box-sizing: border-box;
+  position: relative;
+  gap: 4.6px;
+}
+.card-design5 {
+  align-self: stretch;
+  flex-direction: row;
+  color: #1d1d1d;
+}
+.popular-card5 {
+  margin: 0;
+  width: 143px;
+  position: relative;
+  font-size: 24px;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+  text-align: center;
+  display: inline-block;
+}
+.online5 {
+  flex: 1;
+  position: relative;
+  line-height: 24px;
+  flex-shrink: 0;
+}
+.background10,
+.container10 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.container10 {
+  height: 24px;
+  width: 67px;
+  overflow: hidden;
+  flex-shrink: 0;
+  padding: 0.5px 1px 0 12px;
+  box-sizing: border-box;
+}
+.background10 {
+  border-radius: 6px;
+  background-color: #f6f8f9;
+  padding: 0 9px;
+}
+.in-store5 {
+  width: 75px;
+  position: relative;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.container11 {
+  height: 24px;
+  overflow: hidden;
+  padding: 0.5px 1px 0 11px;
+  box-sizing: border-box;
+}
+.background11,
+.card-availability,
+.container11 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.background11 {
+  border-radius: 6px;
+  background-color: #f6f8f9;
+  padding: 0 2px;
+  color: #ffb779;
+}
+.card-availability {
+  gap: 12px;
+  font-size: 16px;
+  color: #00cca8;
+  font-family: Roboto;
+}
+.adidas5 {
+  width: 58px;
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 58px;
+}
+.brand,
+.product35 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: center;
+  font-size: 18px;
+}
+.product35 {
+  width: 402px;
+  margin: 0 !important;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #fff;
+  flex-direction: column;
+  padding: 34px 36px;
+  box-sizing: border-box;
+  gap: 24px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 30px;
+  color: #1c1c1c;
+  font-family: Inter;
+}
+@media screen and (max-width: 925px) {
+  .wishdeck-giftcards5 {
+    font-size: 24px;
+    line-height: 29px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .wishdeck-giftcards5 {
+    font-size: 18px;
+    line-height: 22px;
+  }
+  .popular-card5 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+}

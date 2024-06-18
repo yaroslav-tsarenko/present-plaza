@@ -1,0 +1,283 @@
+.logo-symbol-icon {
+  height: 64px;
+  width: 64px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.presentplazazone {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  min-width: 168px;
+}
+.logo {
+  width: 363px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 32px 0 0;
+  box-sizing: border-box;
+  gap: 8px;
+  max-width: 100%;
+  font-size: 32px;
+}
+.about {
+  position: relative;
+  font-size: 24px;
+  line-height: 29px;
+  display: inline-block;
+  min-width: 73px;
+}
+.about1,
+.contact,
+.faq,
+.press,
+.reviews {
+  position: relative;
+  line-height: 120%;
+  display: inline-block;
+  min-width: 46px;
+}
+.contact,
+.faq,
+.press,
+.reviews {
+  min-width: 31px;
+}
+.contact,
+.press,
+.reviews {
+  min-width: 61px;
+}
+.press,
+.reviews {
+  min-width: 42px;
+}
+.reviews {
+  min-width: 63px;
+}
+.social-links {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 17px;
+}
+.product {
+  position: relative;
+  font-size: 24px;
+  line-height: 29px;
+  display: inline-block;
+  min-width: 94px;
+}
+.businesses {
+  display: inline-block;
+  min-width: 85px;
+}
+.businesses,
+.gift-card-incentives {
+  position: relative;
+  line-height: 120%;
+}
+.product-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 17px;
+}
+.legal,
+.privacy,
+.site-terms {
+  position: relative;
+  display: inline-block;
+}
+.legal {
+  font-size: 24px;
+  line-height: 29px;
+  min-width: 64px;
+}
+.privacy,
+.site-terms {
+  line-height: 120%;
+  min-width: 81px;
+}
+.privacy {
+  min-width: 56px;
+}
+.legal-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 17px;
+}
+.use-gifthaven {
+  position: relative;
+  font-size: 24px;
+  line-height: 29px;
+}
+.how-it-works,
+.redeem,
+.why-us {
+  position: relative;
+  line-height: 120%;
+  display: inline-block;
+  min-width: 98px;
+}
+.redeem,
+.why-us {
+  min-width: 67px;
+}
+.redeem {
+  min-width: 62px;
+}
+.use-gifthaven-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 17px;
+}
+.other-stuff {
+  position: relative;
+  font-size: 24px;
+  line-height: 29px;
+}
+.blog,
+.gift-card-worth,
+.sitemap {
+  position: relative;
+  line-height: 120%;
+  display: inline-block;
+  min-width: 34px;
+}
+.gift-card-worth,
+.sitemap {
+  min-width: 119px;
+}
+.sitemap {
+  min-width: 62px;
+}
+
+.other-stuff-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 17px;
+}
+
+.presentplazacom-ltd-all {
+  position: relative;
+  line-height: 120%;
+}
+.copyright,
+.footer-content {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.footer-content {
+  flex: 1;
+  background-color: #2f4858;
+  flex-direction: column;
+  align-items: center;
+  padding: 80px 20px 102px;
+  box-sizing: border-box;
+  gap: 64px;
+}
+.cart-details-1920,
+.footer,
+.footer-desktop {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.footer {
+  flex: 1;
+  background-color: #fff;
+  flex-direction: row;
+  max-width: 100%;
+}
+.cart-details-1920,
+.footer-desktop {
+  overflow: hidden;
+}
+.footer-desktop {
+  align-self: stretch;
+  flex-direction: row;
+  max-width: 100%;
+  text-align: left;
+  font-size: 16px;
+  color: #fff;
+  font-family: Inter;
+}
+.cart-details-1920 {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  flex-direction: column;
+  gap: 120px;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1275px) {
+  .footer-links {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1100px) {
+  .cart-details-1920 {
+    gap: 60px;
+  }
+}
+@media screen and (max-width: 750px) {
+  .presentplazazone {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .footer-content {
+    gap: 32px;
+    padding-top: 52px;
+    padding-bottom: 66px;
+    box-sizing: border-box;
+  }
+  .footer-desktop {
+    gap: 24px;
+  }
+  .cart-details-1920 {
+    gap: 30px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .presentplazazone {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .logo {
+    flex-wrap: wrap;
+  }
+  .about,
+  .legal,
+  .other-stuff,
+  .product,
+  .use-gifthaven {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .footer-content {
+    gap: 16px;
+  }
+}

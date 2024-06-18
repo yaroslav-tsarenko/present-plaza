@@ -1,0 +1,163 @@
+.card-design-adidas-child {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 20px;
+  background: linear-gradient(180deg, #45ebf7, #83f7d2);
+}
+.image-1-icon3 {
+  height: 120.3px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+  z-index: 1;
+}
+.image-1-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 28px 0 27px;
+}
+.usd-100-100013 {
+  align-self: stretch;
+  position: relative;
+  line-height: 22px;
+  z-index: 1;
+}
+.card-design-adidas,
+.card-design6 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.card-design-adidas {
+  flex: 1;
+  flex-direction: column;
+  padding: 59.5px 31px 21px;
+  box-sizing: border-box;
+  position: relative;
+  gap: 41.2px;
+}
+.card-design6 {
+  align-self: stretch;
+  flex-direction: row;
+  color: #1d1d1d;
+}
+.popular-card6 {
+  margin: 0;
+  width: 143px;
+  position: relative;
+  font-size: 24px;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+}
+.online6 {
+  flex: 1;
+  position: relative;
+  line-height: 24px;
+  flex-shrink: 0;
+}
+.background12,
+.container12 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.container12 {
+  height: 24px;
+  width: 67px;
+  overflow: hidden;
+  flex-shrink: 0;
+  padding: 0.5px 1px 0 12px;
+  box-sizing: border-box;
+}
+.background12 {
+  border-radius: 6px;
+  background-color: #f6f8f9;
+  padding: 0 9px;
+}
+.in-store6 {
+  width: 75px;
+  position: relative;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.container13 {
+  height: 24px;
+  overflow: hidden;
+  padding: 0.5px 1px 0 11px;
+  box-sizing: border-box;
+}
+.background-parent2,
+.background13,
+.container13 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.background13 {
+  border-radius: 6px;
+  background-color: #f6f8f9;
+  padding: 0 2px;
+  color: #ffb779;
+}
+.background-parent2 {
+  gap: 12px;
+  text-align: left;
+  color: #00cca8;
+  font-family: Roboto;
+}
+.adidas6 {
+  width: 58px;
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 58px;
+}
+.adidas-wrapper3,
+.product36 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: 18px;
+}
+.product36 {
+  width: 402px;
+  margin: 0 !important;
+  position: absolute;
+  top: 503px;
+  left: 458px;
+  background-color: #fff;
+  flex-direction: column;
+  padding: 34px 36px;
+  box-sizing: border-box;
+  gap: 24px;
+  max-width: 100%;
+  text-align: center;
+  font-size: 16px;
+  color: #1c1c1c;
+  font-family: Inter;
+}
+@media screen and (max-width: 450px) {
+  .popular-card6 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+}

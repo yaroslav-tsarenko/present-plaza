@@ -1,0 +1,584 @@
+.personalized-gift-card {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 53px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.star-icon15,
+.star-icon16,
+.star-icon17,
+.star-icon18,
+.star-icon19 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  min-height: 24px;
+}
+.stars3 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.rating-icons {
+  width: 7px;
+  height: 7px;
+  position: relative;
+  border-radius: 50%;
+  background-color: #d9d9d9;
+}
+.rating-elements {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 8.5px 0 0;
+}
+.ratings {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 70px;
+}
+.rating-elements1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1px 0 0;
+}
+.rating-elements-child {
+  width: 7px;
+  height: 7px;
+  position: relative;
+  border-radius: 50%;
+  background-color: #d9d9d9;
+}
+.rating-elements2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 8.5px 0 0;
+}
+.reviews3 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 67px;
+}
+.card-rating,
+.personalized-card-details,
+.rating-elements3 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.rating-elements3 {
+  flex-direction: column;
+  padding: 1px 0 0;
+}
+.card-rating,
+.personalized-card-details {
+  gap: 12px;
+}
+.card-rating {
+  flex-direction: row;
+  font-size: 16px;
+  color: #fff;
+  font-family: Archivo;
+}
+.personalized-card-details {
+  width: 486px;
+  flex-direction: column;
+  max-width: 100%;
+}
+.description {
+  width: 127px;
+  color: #fabe06;
+  display: inline-block;
+}
+.description,
+.more-info,
+.product-info1 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.more-info {
+  width: 106px;
+  display: inline-block;
+  min-width: 106px;
+}
+.card-info-tabs,
+.personalized-card {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+}
+.card-info-tabs {
+  border-bottom: 1px solid #d1d1d1;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 24px 32px 22px;
+  gap: 20px;
+  text-align: center;
+  font-size: 24px;
+}
+.personalized-card {
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 32px;
+  max-width: 100%;
+  font-size: 48px;
+}
+.each-gift-card,
+.our-personalized-gift {
+  margin: 0;
+}
+.our-personalized-gift-container {
+  flex: 1;
+  position: relative;
+  line-height: 135%;
+  display: inline-block;
+  max-width: 100%;
+}
+.card-description {
+  align-self: stretch;
+  border-bottom: 1px solid #bdbdbd;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 24px 32px 22px;
+  max-width: 100%;
+  font-family: Archivo;
+}
+.customize-gift-cards {
+  margin: 0;
+  width: 231px;
+  position: relative;
+  font-size: 24px;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+}
+.enter-domination1 {
+  white-space: pre-wrap;
+}
+.span {
+  font-size: 24px;
+}
+.enter-domination {
+  line-height: 120%;
+}
+.min-5- {
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Archivo;
+}
+.enter-domination-min-container {
+  align-self: stretch;
+  height: 29px;
+  position: relative;
+  display: inline-block;
+}
+.tag-icon2 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button11 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 57px;
+}
+.tag-icon3 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button10,
+.domination-input {
+  display: flex;
+  justify-content: flex-start;
+}
+.button10 {
+  align-self: stretch;
+  border-radius: 4px;
+  border: 1px solid #000;
+  flex-direction: row;
+  align-items: center;
+  padding: 14px 32px;
+  gap: 16px;
+  text-align: center;
+  font-size: 16px;
+  color: #000;
+  font-family: Archivo;
+}
+.domination-input {
+  width: 304px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 24px;
+}
+.gifting-details {
+  line-height: 120%;
+}
+.gift-card-details {
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Archivo;
+}
+.gifting-details-gift-container {
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+}
+.button12 {
+  border: 0;
+  background-color: transparent;
+  height: 54px;
+  flex: 1;
+  font-family: Archivo;
+  font-size: 16px;
+  color: #000;
+  min-width: 259px;
+  max-width: 100%;
+}
+.tag-icon4 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.span1 {
+  font-family: Archivo;
+}
+.button14 {
+  position: relative;
+  line-height: 135%;
+  display: inline-block;
+  min-width: 119px;
+}
+.tag-icon5 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button13 {
+  flex: 1;
+  border-radius: 4px;
+  border: 1px solid #000;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 14px 31px;
+  gap: 16px;
+  min-width: 259px;
+  max-width: 100%;
+}
+.details-buttons {
+  align-self: stretch;
+  flex-direction: row;
+  gap: 24px;
+  text-align: center;
+  font-size: 16px;
+  color: #000;
+  font-family: Lato;
+}
+.details-buttons,
+.gifting-details-content,
+.gifting-details-content-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.gifting-details-content {
+  flex: 1;
+  flex-direction: column;
+  gap: 24px;
+}
+.gifting-details-content-wrapper {
+  align-self: stretch;
+  flex-direction: row;
+}
+.tag-icon6 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button16 {
+  position: relative;
+  line-height: 22px;
+}
+.tag-icon7 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button15 {
+  flex: 1;
+  border-radius: 4px;
+  border: 1px solid #000;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 14px 32px;
+  gap: 16px;
+  min-width: 259px;
+  max-width: 100%;
+}
+.button17,
+.button18,
+.more-details-buttons {
+  font-family: Archivo;
+  font-size: 16px;
+  color: #000;
+}
+.button17 {
+  border: 0;
+  background-color: transparent;
+  height: 54px;
+  flex: 1;
+  min-width: 259px;
+  max-width: 100%;
+}
+.button18,
+.more-details-buttons {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.more-details-buttons {
+  gap: 24px;
+  max-width: 100%;
+  text-align: center;
+}
+.button18 {
+  border: 1px solid #000;
+  background-color: transparent;
+  height: 208px;
+  width: auto;
+  outline: 0;
+  border-radius: 4px;
+  box-sizing: border-box;
+  padding: 16px 32px;
+}
+.button19,
+.delivery-method {
+  align-self: stretch;
+  max-width: 100%;
+}
+.delivery-method {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+  font-size: 18px;
+}
+.button19 {
+  flex: 1;
+}
+.secondary-action-button {
+  align-self: stretch;
+  height: 62px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 8px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.receipt-discount-icon {
+  width: 24px;
+  height: 24px;
+  position: relative;
+}
+.receipt-discount-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 2.5px 0 0;
+}
+.offers {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  min-width: 68px;
+}
+.offer-banner {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 8px;
+  gap: 12px;
+  font-size: 24px;
+}
+.tag-icon8 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+  min-height: 24px;
+}
+.get-up-to-15 {
+  position: relative;
+  line-height: 22px;
+}
+.cashback-details {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1px 0 0;
+  box-sizing: border-box;
+  max-width: calc(100% - 44px);
+}
+.arrow-down-icon1 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+}
+.cashback-content {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: 20px;
+}
+.tag-icon9 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button20,
+.user-offer {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.button20 {
+  align-self: stretch;
+  border-radius: 4px;
+  border: 1px solid #000;
+  box-sizing: border-box;
+  flex-direction: row;
+  padding: 26px 31px;
+  gap: 16px;
+  text-align: center;
+  color: #000;
+  font-family: Archivo;
+}
+.user-offer {
+  flex: 1;
+  flex-direction: column;
+  gap: 32px;
+  min-width: 533px;
+  text-align: left;
+  font-size: 16px;
+  color: #1c1c1c;
+  font-family: Inter;
+}
+@media screen and (max-width: 1350px) {
+  .user-offer {
+    flex: 1;
+  }
+}
+@media screen and (max-width: 800px) {
+  .personalized-gift-card {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .card-info-tabs,
+  .details-buttons,
+  .more-details-buttons {
+    flex-wrap: wrap;
+  }
+  .user-offer {
+    min-width: 100%;
+  }
+}
+@media screen and (max-width: 450px) {
+  .personalized-gift-card {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .description,
+  .more-info,
+  .product-info1 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .personalized-card {
+    gap: 16px;
+  }
+  .customize-gift-cards {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .delivery-method {
+    gap: 16px;
+  }
+  .button19 {
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+  .offers {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .user-offer {
+    gap: 16px;
+  }
+}

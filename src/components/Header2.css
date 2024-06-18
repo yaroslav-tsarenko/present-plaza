@@ -1,0 +1,127 @@
+.logo-symbol-icon4 {
+  height: 64px;
+  width: 64px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.presentplazazone3 {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 400;
+  font-family: inherit;
+  white-space: nowrap;
+}
+.logo4 {
+  width: 358px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 27px 0 0;
+  box-sizing: border-box;
+  gap: 8px;
+  max-width: 100%;
+}
+.about4,
+.blog3,
+.contact3,
+.platform2,
+.shop3,
+.work2 {
+  position: relative;
+  line-height: 120%;
+  display: inline-block;
+  min-width: 46px;
+}
+.blog3,
+.contact3,
+.platform2,
+.shop3,
+.work2 {
+  min-width: 34px;
+}
+.contact3,
+.platform2,
+.shop3,
+.work2 {
+  min-width: 39px;
+}
+.contact3,
+.platform2,
+.shop3 {
+  min-width: 64px;
+}
+.contact3,
+.shop3 {
+  min-width: 61px;
+}
+.shop3 {
+  min-width: 39px;
+}
+.navigation {
+  margin: 0;
+  width: 388px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 0;
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: left;
+  font-size: 16px;
+  color: #000;
+  font-family: Inter;
+}
+.logo-container-child {
+  height: 43px;
+  width: 198px;
+}
+.logo-container1 {
+  width: 1680px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+  max-width: 100%;
+}
+
+.header-content {
+  background-color: #fff;
+  flex-direction: row;
+  justify-content: center;
+  padding: 5.5px 20px;
+  box-sizing: border-box;
+}
+.header2 {
+  align-items: flex-start;
+  text-align: left;
+  font-size: 32px;
+  color: #000;
+  font-family: Inter;
+}
+@media screen and (max-width: 1200px) {
+  .navigation {
+    display: none;
+  }
+  .logo-container1 {
+    width: 1292px;
+  }
+}
+@media screen and (max-width: 825px) {
+  .header-content {
+    gap: 53px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .header-content {
+    gap: 27px;
+  }
+}

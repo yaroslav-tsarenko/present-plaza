@@ -1,0 +1,346 @@
+.sign-up,
+.sign-up-to {
+  align-self: stretch;
+  position: relative;
+}
+.sign-up {
+  margin: 0;
+  font-size: inherit;
+  line-height: 53px;
+  font-weight: 400;
+  font-family: inherit;
+  white-space: nowrap;
+}
+.sign-up-to {
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Archivo;
+  color: #1c1c1c;
+}
+.sign-in-content {
+  width: 319px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.your-name {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Archivo;
+  color: #000;
+  text-align: center;
+  display: inline-block;
+  min-width: 79px;
+}
+.name-address-fields {
+  flex: 1;
+  border-radius: 4px;
+  background-color: #fff;
+  border: 1px solid #d1d1d1;
+  box-sizing: border-box;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 7px 11px;
+  min-width: 159px;
+  white-space: nowrap;
+}
+.email-country-password {
+  border: 0;
+  background-color: transparent;
+  height: 40px;
+  flex: 1;
+  font-family: Archivo;
+  font-size: 16px;
+  color: #000;
+  min-width: 159px;
+}
+.name-address-username {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 11px;
+}
+.address {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Archivo;
+  color: #000;
+  text-align: center;
+  display: inline-block;
+  min-width: 60px;
+}
+.address-wrapper {
+  flex: 1;
+  border-radius: 4px;
+  background-color: #fff;
+  border: 1px solid #d1d1d1;
+  box-sizing: border-box;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 7px 11px;
+  min-width: 159px;
+}
+.country {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Archivo;
+  color: #000;
+  text-align: center;
+  display: inline-block;
+  min-width: 57px;
+}
+.email-country-input {
+  height: 16px;
+  width: 16px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.country-parent {
+  flex: 1;
+  border-radius: 4px;
+  background-color: #fff;
+  border: 1px solid #d1d1d1;
+  box-sizing: border-box;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 7px 11px;
+  min-width: 159px;
+  gap: 20px;
+}
+.name-address-username1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 11px;
+}
+.username {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Archivo;
+  color: #000;
+  text-align: center;
+  display: inline-block;
+  min-width: 75px;
+}
+.name-address-input {
+  height: 16px;
+  width: 16px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.username-parent {
+  flex: 1;
+  border-radius: 4px;
+  background-color: #fff;
+  border: 1px solid #d1d1d1;
+  box-sizing: border-box;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 7px 11px;
+  min-width: 159px;
+  gap: 20px;
+}
+.password {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Archivo;
+  color: #000;
+  text-align: center;
+  display: inline-block;
+  min-width: 71px;
+}
+.frame-icon {
+  height: 16px;
+  width: 16px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.password-parent {
+  flex: 1;
+  border-radius: 4px;
+  background-color: #fff;
+  border: 1px solid #d1d1d1;
+  box-sizing: border-box;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 7px 11px;
+  min-width: 159px;
+  gap: 20px;
+}
+.name-address-username2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 11px;
+}
+.button1 {
+  align-self: stretch;
+  height: 54px;
+}
+.form-fields {
+  margin: 0;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 11px;
+}
+.or-sign-up {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: "Work Sans";
+  display: inline-block;
+  min-width: 121px;
+}
+.social-buttons-icon,
+.social-buttons-icon1,
+.social-buttons-icon2 {
+  height: 45px;
+  width: 45px;
+  position: relative;
+  border-radius: 15px;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 45px;
+}
+.content,
+.sign-in,
+.social-sign-up {
+  display: flex;
+  justify-content: flex-start;
+}
+.social-sign-up {
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 13px;
+}
+.content,
+.sign-in {
+  flex-direction: column;
+}
+.sign-in {
+  align-self: stretch;
+  border-radius: 24px;
+  overflow: hidden;
+  align-items: center;
+  padding: 92px 36px;
+  gap: 36px;
+}
+.content {
+  width: 573px;
+  align-items: flex-start;
+  padding: 100px 0 0;
+  box-sizing: border-box;
+  min-width: 573px;
+  max-width: 100%;
+}
+.background-icon {
+  height: 896px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+  min-width: 624px;
+}
+.main {
+  width: 1747.5px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 20px;
+  box-sizing: border-box;
+  gap: 194.5px;
+  max-width: 100%;
+  text-align: center;
+  font-size: 48px;
+  color: #000;
+  font-family: Inter;
+}
+@media screen and (max-width: 1400px) {
+  .content {
+    flex: 1;
+  }
+  .main {
+    flex-wrap: wrap;
+    gap: 97px;
+  }
+}
+@media screen and (max-width: 825px) {
+  .sign-up {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .name-address-username,
+  .name-address-username1,
+  .name-address-username2 {
+    flex-wrap: wrap;
+  }
+  .content,
+  .sign-in {
+    box-sizing: border-box;
+  }
+  .sign-in {
+    gap: 18px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+  .content {
+    padding-top: 65px;
+  }
+  .background-icon,
+  .content {
+    min-width: 100%;
+  }
+  .main {
+    gap: 49px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .sign-up {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .button1 {
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+  .main {
+    gap: 24px;
+  }
+}

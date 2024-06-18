@@ -1,0 +1,92 @@
+.enjoy-exclusive-discounts,
+.summer-savings {
+  width: 643.6px;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+}
+.summer-savings {
+  margin: 0;
+  font-size: inherit;
+  line-height: 53px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.enjoy-exclusive-discounts {
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Archivo;
+}
+.button3 {
+  width: 245px;
+  height: 54px;
+}
+.summer-savings-parent {
+  width: 1680px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 120px 20px 120px 162px;
+  box-sizing: border-box;
+  gap: 10px;
+  background-image: url(/public/frame-89@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  max-width: 100%;
+}
+.summer-savings-container,
+.summer-savings-container-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.summer-savings-container {
+  flex: 1;
+  background-color: #b6d0e4;
+  overflow: hidden;
+  justify-content: center;
+  padding: 80px 20px;
+}
+.summer-savings-container-wrapper {
+  align-self: stretch;
+  justify-content: flex-start;
+  padding: 0 0 80px;
+  text-align: left;
+  font-size: 48px;
+  color: #545454;
+  font-family: Inter;
+}
+@media screen and (max-width: 850px) {
+  .summer-savings {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .summer-savings-parent {
+    padding-left: 81px;
+    box-sizing: border-box;
+  }
+  .summer-savings-container {
+    padding-top: 52px;
+  }
+  .summer-savings-container,
+  .summer-savings-container-wrapper {
+    padding-bottom: 52px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .summer-savings {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .summer-savings-parent {
+    padding-left: 20px;
+    padding-top: 78px;
+    padding-bottom: 78px;
+    box-sizing: border-box;
+  }
+}

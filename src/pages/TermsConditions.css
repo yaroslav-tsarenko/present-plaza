@@ -1,0 +1,430 @@
+.please-refer-to,
+.terms-conditions1 {
+  width: 1680px;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+}
+.terms-conditions1 {
+  margin: 0;
+  font-size: inherit;
+  line-height: 53px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.please-refer-to {
+  font-size: 16px;
+  line-height: 22px;
+  font-family: "Work Sans";
+}
+.terms-conditions-parent {
+  align-self: stretch;
+  background-color: #eee;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 80px 20px;
+  box-sizing: border-box;
+  gap: 10px;
+  max-width: 100%;
+}
+.welcome-to-lilylamb {
+  width: 1680px;
+  height: 44px;
+  position: relative;
+  letter-spacing: -0.02px;
+  line-height: 135%;
+  display: inline-block;
+  max-width: 100%;
+}
+.acceptance-of-terms {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 43px;
+}
+.acceptance-of-terms-container {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 700;
+  font-family: inherit;
+}
+.please-read-these {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: "Work Sans";
+  color: #454545;
+}
+.acceptance-of-terms-parent {
+  width: 1680px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 32px;
+  color: #262626;
+  font-family: Archivo;
+}
+.privacy-policy,
+.privacy-policy1 {
+  margin: 0;
+  font-size: inherit;
+  font-family: inherit;
+}
+.privacy-policy1 {
+  padding-left: 43px;
+}
+.privacy-policy {
+  align-self: stretch;
+  position: relative;
+  line-height: 120%;
+  font-weight: 700;
+}
+.our-privacy-policy {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: "Work Sans";
+  color: #454545;
+}
+.privacy-policy-parent {
+  width: 1680px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 32px;
+  color: #262626;
+  font-family: Archivo;
+}
+.service-availability,
+.service-availability1 {
+  margin: 0;
+  font-size: inherit;
+  font-family: inherit;
+}
+.service-availability1 {
+  padding-left: 43px;
+}
+.service-availability {
+  align-self: stretch;
+  position: relative;
+  line-height: 120%;
+  font-weight: 700;
+}
+.we-strive-to {
+  align-self: stretch;
+  height: 44px;
+  position: relative;
+  font-size: 16px;
+  letter-spacing: -0.01px;
+  line-height: 135%;
+  font-family: "Work Sans";
+  color: #454545;
+  display: inline-block;
+}
+.service-availability-parent {
+  width: 1680px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 32px;
+  color: #262626;
+  font-family: Archivo;
+}
+.user-conduct1 {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 43px;
+}
+.user-conduct,
+.you-agree-to {
+  align-self: stretch;
+  position: relative;
+}
+.user-conduct {
+  margin: 0;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 700;
+  font-family: inherit;
+}
+.you-agree-to {
+  font-size: 16px;
+  line-height: 22px;
+  font-family: "Work Sans";
+  color: #454545;
+}
+.user-conduct-parent {
+  width: 1680px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 32px;
+  color: #262626;
+  font-family: Archivo;
+}
+.termination1 {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 43px;
+}
+.termination,
+.we-reserve-the {
+  align-self: stretch;
+  position: relative;
+}
+.termination {
+  margin: 0;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 700;
+  font-family: inherit;
+}
+.we-reserve-the {
+  font-size: 16px;
+  line-height: 22px;
+  font-family: "Work Sans";
+  color: #454545;
+}
+.termination-parent {
+  width: 1680px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 32px;
+  color: #262626;
+  font-family: Archivo;
+}
+.limitation-of-liability {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 43px;
+}
+.limitation-of-liability-container {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 700;
+  font-family: inherit;
+}
+.to-the-fullest {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: "Work Sans";
+  color: #454545;
+}
+.limitation-of-liability-parent {
+  width: 1680px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 32px;
+  color: #262626;
+  font-family: Archivo;
+}
+.governing-law1 {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 43px;
+}
+.governing-law,
+.these-terms-are {
+  align-self: stretch;
+  position: relative;
+}
+.governing-law {
+  margin: 0;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 700;
+  font-family: inherit;
+}
+.these-terms-are {
+  font-size: 16px;
+  line-height: 135%;
+  font-family: "Work Sans";
+  color: #454545;
+}
+.governing-law-parent {
+  width: 1680px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 32px;
+  color: #262626;
+  font-family: Archivo;
+}
+.contact-us,
+.contact-us1 {
+  margin: 0;
+  font-size: inherit;
+  font-family: inherit;
+}
+.contact-us1 {
+  padding-left: 43px;
+}
+.contact-us {
+  align-self: stretch;
+  position: relative;
+  line-height: 120%;
+  font-weight: 700;
+}
+.blank-line,
+.if-you-have,
+.thank-you-for,
+.we-hope-you {
+  margin: 0;
+}
+.if-you-have-container {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: "Work Sans";
+  color: #454545;
+}
+.contact-us-parent {
+  width: 1680px;
+  align-items: flex-start;
+  gap: 32px;
+  max-width: 100%;
+  font-size: 32px;
+  color: #262626;
+  font-family: Archivo;
+}
+.contact-us-parent,
+.terms-conditions,
+.terms-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.terms-content {
+  align-self: stretch;
+  align-items: center;
+  padding: 80px 20px;
+  box-sizing: border-box;
+  gap: 64px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 16px;
+  color: #454545;
+  font-family: "Work Sans";
+}
+.terms-conditions {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  overflow: hidden;
+  align-items: flex-start;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  font-size: 48px;
+  color: #1c1c1c;
+  font-family: Archivo;
+}
+@media screen and (max-width: 1200px) {
+  .terms-content {
+    padding-top: 34px;
+    padding-bottom: 34px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .terms-conditions1 {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .acceptance-of-terms-container,
+  .contact-us,
+  .governing-law,
+  .limitation-of-liability-container,
+  .privacy-policy,
+  .service-availability,
+  .termination,
+  .user-conduct {
+    font-size: 26px;
+    line-height: 31px;
+  }
+}
+@media screen and (max-width: 750px) {
+  .acceptance-of-terms-parent,
+  .contact-us-parent,
+  .governing-law-parent,
+  .limitation-of-liability-parent,
+  .privacy-policy-parent,
+  .service-availability-parent,
+  .termination-parent,
+  .user-conduct-parent {
+    gap: 16px;
+  }
+  .terms-content {
+    gap: 32px;
+    padding-top: 22px;
+    padding-bottom: 22px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .terms-conditions1 {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .acceptance-of-terms-container,
+  .contact-us,
+  .governing-law,
+  .limitation-of-liability-container,
+  .privacy-policy,
+  .service-availability,
+  .termination,
+  .user-conduct {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .terms-content {
+    gap: 16px;
+  }
+}
